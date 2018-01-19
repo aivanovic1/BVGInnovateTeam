@@ -12,4 +12,3 @@ if($conn){
 	echo "connection not success";
 }
 ?>	
-
